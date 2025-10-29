@@ -49,7 +49,7 @@ Diseño Responsive | Trabajo en equipo | Buenas prácticas de desarrollo
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=camiliillo18&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=camiliillo18&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=camiliillo18&theme=radical&hide_border=false)
 
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camiliillo18&theme=radical)
 
