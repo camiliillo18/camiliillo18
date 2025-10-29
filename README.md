@@ -1,5 +1,5 @@
 <!-- Encabezado animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+Camilo+👋;Desarrollador+Web+desde+M%C3%A1laga+;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+constante)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=%C2%A1Hola!+Soy+Camilo+👋;Desarrollador+Web+desde+M%C3%A1laga+;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+constante)](https://git.io/typing-svg)
 
 ---
 
